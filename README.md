@@ -1,4 +1,8 @@
-# Hi, I'm Roshitha
+#Hi, I'm Roshitha 👋
+
+AWS | Linux | Python | CI/CD | Infrastructure Automation
+
+Focused on building deployment automation, monitoring systems, Linux infrastructure, and cloud-native applications.
 
 System Development Engineer focused on Linux systems, AWS cloud infrastructure, CI/CD automation, and deployment engineering.
 
