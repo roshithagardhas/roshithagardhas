@@ -1,15 +1,13 @@
-#Hi, I'm Roshitha 👋
+# Hi, I'm Roshitha 👋
 
-AWS | Linux | Python | CI/CD | Infrastructure Automation
-
-Focused on building deployment automation, monitoring systems, Linux infrastructure, and cloud-native applications.
-
-System Development Engineer focused on Linux systems, AWS cloud infrastructure, CI/CD automation, and deployment engineering.
+System Development Engineer Aspirant focused on Linux systems, AWS cloud infrastructure, CI/CD automation, deployment engineering, and infrastructure automation.
 
 ## Technical Skills
+
 - Python
 - Linux
-- AWS EC2
+- AWS (EC2, S3, IAM, CloudWatch)
+- Git & GitHub
 - GitHub Actions
 - Docker
 - Ansible
@@ -21,22 +19,24 @@ System Development Engineer focused on Linux systems, AWS cloud infrastructure, 
 ## Featured Projects
 
 ### System Monitoring & Auto-Recovery
-Linux monitoring and automated service recovery using Python and Bash scripting.
+Built Linux monitoring and automated service recovery workflows using Python and Bash scripting.
 
 ### Infrastructure Automation using Ansible
-Automated AWS EC2 provisioning and Linux server configuration workflows.
+Automated AWS EC2 provisioning, Nginx setup, and Linux server configuration using Ansible playbooks.
 
 ### AWS DevOps CI/CD Pipeline
-Deployment automation using GitHub Actions, Docker, and Linux-based deployment pipelines.
+Implemented deployment automation using GitHub Actions, Docker, and Linux-based deployment pipelines.
 
 ### Vastra E-Commerce Platform
-Production-style deployment project using Node.js, React.js, AWS EC2, Nginx, and CI/CD workflows.
+Production-style deployment project using React.js, Node.js, AWS EC2, Nginx, and CI/CD workflows.
 
 ## Currently Learning
-- Advanced Linux Administration
-- Cloud Infrastructure Automation
-- AWS Deployment Architectures
-- System Reliability Engineering
 
-## Goals
-Seeking System Development Engineer and Infrastructure Support Engineering opportunities focused on automation, deployment, cloud infrastructure, and operational excellence.
+- Advanced Linux Administration
+- AWS Cloud Infrastructure
+- Infrastructure as Code (IaC)
+- System Reliability Engineering (SRE)
+
+## Career Objective
+
+Seeking System Development Engineer opportunities focused on automation, cloud infrastructure, Linux systems, deployment engineering, and operational excellence.
